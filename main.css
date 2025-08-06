@@ -192,6 +192,9 @@ body{
         border-color: red;
     
     }
+    #one-two{
+        display: none;
+    }
     .p-one{
         display: inline;
         font-weight: 800;
